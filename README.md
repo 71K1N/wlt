@@ -4,11 +4,15 @@
 
 ::LINGUAGENS
 
-## JAVASCRIPT
+## 
 
-### JS
+* [13/08/2020]
+  * {JAVASCRIPT}
+    * [Array.map](./js/array_map/README.md) - Exemplos de uso  do array map
 
-* 
+
+
+
 
 
 
