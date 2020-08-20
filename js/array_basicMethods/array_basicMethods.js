@@ -1,5 +1,6 @@
 //  -   ARRAY
 var arr = [1, 2, 3, 68, 74, 41];
+console.log(arr);
 
 //  -   TAMANHO DO ARRAY (length)
 console.log('--------------------------------------------------');
