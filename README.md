@@ -20,4 +20,4 @@ __________
     * [Array.filter](./js/array_filter/) - Exemplos de uso  do array filter
 * [20/08/2020]
   * {JAVASCRIPT}
-    * [BasicMethos](./s/array_basicMethods) - Alguns metodos basicos de operacao com array
+    * [BasicMethos](./js/array_basicMethods) - Alguns metodos basicos de operacao com array
