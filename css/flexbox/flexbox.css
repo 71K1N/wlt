@@ -1,0 +1,17 @@
+.flex_container{
+    display: flex;
+    background-color: bisque;
+    flex-direction: column;
+}
+.children{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    margin: 5px;
+    text-align: center;
+}
+.flex_container_cReverse{
+    display: flex;
+    background-color: bisque;
+    flex-direction: column-reverse;
+}

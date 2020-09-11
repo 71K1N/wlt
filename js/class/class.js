@@ -27,8 +27,6 @@ class Pessoa {
     }
 }
 
-
-
 /**
  * nao ha hoisting para classe, logo as classes
  * devem ser declaradas antes de sua utilizacao

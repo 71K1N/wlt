@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flex box - Tikin</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+    <link rel="stylesheet" href="flexbox.css">
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Flex box
+            </h1>
+            <p class="subtitle">
+                Praticando um pouco dos conceitos de Flexbox
+            </p>
+        </div>
+        <div class="container">
+            <div class="title">Container (flexContainer)</div>
+            <p class="subtitle">Contem todos os elementos(children) </p>
+        </div>
+        <div class="container">
+            <!-- CONTAINER -->
+            <p>Exemplo flex </p>
+            <code>
+                <pre>
+                    .flex_container{
+                        display: flex;
+                        background-color: bisque;
+                        flex-direction: column;
+                    }
+                    .children{
+                        width: 100px;
+                        height: 50px;
+                        background-color: aqua;
+                        margin: 5px;
+                        text-align: center;
+                    }
+            </pre>
+            </code>
+            <div class="flex_container">
+                <div class="children">1</div>
+                <div class="children">2</div>
+                <div class="children">3</div>
+                <div class="children">4</div>
+                <div class="children">5</div>
+
+            </div>
+        </div>
+        <div class="container">
+            <!-- CONTAINER -->
+            <p>Exemplo flex </p>
+            <code>
+                <pre>
+                    .flex_container{
+                        display: flex;
+                        background-color: bisque;
+                        flex-direction: column-reverse;
+                    }
+                    .children{
+                        width: 100px;
+                        height: 50px;
+                        background-color: aqua;
+                        margin: 5px;
+                        text-align: center;
+                    }
+            </pre>
+            </code>
+            <div class="flex_container_cReverse">
+                <div class="children">1</div>
+                <div class="children">2</div>
+                <div class="children">3</div>
+                <div class="children">4</div>
+                <div class="children">5</div>
+
+            </div>
+        </div>
+
+    </section>
+</body>
+
+</html>
