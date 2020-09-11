@@ -15,9 +15,17 @@ __________
 * [13/08/2020]
   * {JAVASCRIPT}
     * [Array.map](./js/array_map/) - Exemplos de uso  do array map
+  
 * [14/08/2020]
   * {JAVASCRIPT}
     * [Array.filter](./js/array_filter/) - Exemplos de uso  do array filter
+  
 * [20/08/2020]
+  
   * {JAVASCRIPT}
     * [BasicMethos](./js/array_basicMethods) - Alguns metodos basicos de operacao com array
+  
+  [11/09/2020]
+  
+  * {CSS}
+    * [Flexbox](./css/flexbox/) - Usando flex box
