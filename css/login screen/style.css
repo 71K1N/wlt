@@ -1,0 +1,10 @@
+.loginContainer{        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginBox{
+    background-color: cadetblue;        
+    align-self: center;
+    
+}
